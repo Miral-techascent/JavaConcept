@@ -6,5 +6,6 @@ public class MyFirstProgram {
         System.out.print("MY Second Line");
         System.out.println("Tester is here");
         System.out.println("Hello, How are you?");
+        System.out.println("Group Discussion");
     }
 }
